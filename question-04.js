@@ -6,6 +6,7 @@ function checkArmstrong(num) {
 
     while (temp > 0) {
         let digit = temp % 10;
+        // only for 3 digits number
         sum = sum + digit * digit * digit;
         temp = Math.floor(temp / 10);
     }
@@ -19,4 +20,4 @@ function checkArmstrong(num) {
 
 console.log(checkArmstrong(153));
 console.log(checkArmstrong(370));
-console.log(checkArmstrong(9474));
+console.log(checkArmstrong(947));
