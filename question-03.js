@@ -3,8 +3,9 @@
 
 function findGCD(num1, num2) {
 
-
+    // smallest num between tow num
     for (let i = Math.min(num1, num2); i > 0; i--) {
+        // check if i is a common divisor of num1 and num2
         if (num1 % i === 0 && num2 % i === 0) {
             return i;
         }
