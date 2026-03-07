@@ -34,7 +34,7 @@ Every solution comes with dry runs, debugging notes, and conceptual breakdowns. 
 
 ---
 
-## 📊 Progress Tracker — 17 / 100
+## 📊 Progress Tracker — 22 / 100
 
 > 💡 **Empty cells = your contribution opportunity!** Pick a problem, pick a language, open a PR.
 
@@ -57,7 +57,12 @@ Every solution comes with dry runs, debugging notes, and conceptual breakdowns. 
 | 15 | Calculate the sum of elements in an array | Arrays | ✅ | | | | |
 | 16 | Factorial using Recursion | Recursion | ✅ | | | | |
 | 17 | Find the nth Fibonacci number using Recursion | Recursion | ✅ | | | | |
-| 18–100 | *Coming soon — stay tuned!* | — | | | | | |
+| 18 | Swap two variables without using a third variable | Math | ✅ | | | | |
+| 19 | Remove duplicates from an array | Arrays | ✅ | | | | |
+| 20 | Find the Longest Word in a String | Strings | ✅ | | | | |
+| 21 | Find the Missing Number in an Array | Arrays | ✅ | | | | |
+| 22 | Two Sum (LeetCode #1) 🏆 | Arrays | ✅ | | | | |
+| 23–100 | *Coming soon — stay tuned!* | — | | | | | |
 
 ---
 
@@ -219,6 +224,6 @@ See the [LICENSE](LICENSE) file for details.
 
 *"Every expert was once a beginner who refused to quit."*
 
-**Made with ❤️ — 17 down, 83 to go. 🚀**
+**Made with ❤️ — 22 down, 78 to go. 🚀**
 
 </div>
