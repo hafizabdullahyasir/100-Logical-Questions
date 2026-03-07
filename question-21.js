@@ -1,9 +1,9 @@
 // Find the Missing Number in an Array
 
 function findMissingNumber(arr, n) {
-    let expectedTotal = n * (n + 1) / 2;
+    let expectedTotal = n * (n + 1) / 2; // real total 
 
-    let currentTotal = 0;
+    let currentTotal = 0; // array ka total 
     for (let i = 0; i < arr.length; i++) {
         currentTotal += arr[i];
     }
