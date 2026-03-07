@@ -14,4 +14,4 @@ function twoSum(arr, target) {
 }
 
 console.log(twoSum([2, 7, 11, 15], 9)); // Output: [2, 7] ✅
-console.log(twoSum([3, 2, 4], 6));      // Output: [2, 4] ✅
+console.log(twoSum([3, 2, 4], 6));      // Output: [2, 4] ✅ .....
