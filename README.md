@@ -34,7 +34,7 @@ Every solution comes with dry runs, debugging notes, and conceptual breakdowns. 
 
 ---
 
-## 📊 Progress Tracker — 22 / 100
+## 📊 Progress Tracker — 23 /  100
 
 > 💡 **Empty cells = your contribution opportunity!** Pick a problem, pick a language, open a PR.
 
@@ -62,7 +62,8 @@ Every solution comes with dry runs, debugging notes, and conceptual breakdowns. 
 | 20 | Find the Longest Word in a String | Strings | ✅ | | | | |
 | 21 | Find the Missing Number in an Array | Arrays | ✅ | | | | |
 | 22 | Two Sum (LeetCode #1) 🏆 | Arrays | ✅ | | | | |
-| 23–100 | *Coming soon — stay tuned!* | — | | | | | |
+| 23 | Find the Second Largest Number in an Array | Arrays | ✅ | | | | |
+| 24–100 | *Coming soon — stay tuned!* | — | | | | | |
 
 ---
 
@@ -224,6 +225,6 @@ See the [LICENSE](LICENSE) file for details.
 
 *"Every expert was once a beginner who refused to quit."*
 
-**Made with ❤️ — 22 down, 78 to go. 🚀**
+**Made with ❤️ — 23 down, 77 to go. 🚀**
 
 </div>
