@@ -64,6 +64,8 @@ Every solution comes with dry runs, debugging notes, and conceptual breakdowns. 
 | 22 | Two Sum (LeetCode #1) 🏆 | Arrays | ✅ | | | | |
 | 23 | Find the Second Largest Number in an Array | Arrays | ✅ | | | | |
 | 24 | Move all zeroes to the end of the array | Arrays | ✅ | | | | |
+| 26 | Reverse Array IN-PLACE (Two-Pointer Technique) | Arrays | ✅ | | | | |
+| 26–100 | *Coming soon — stay tuned!* | — | | | | | |
 | 25 | Find the Intersection of Two Arrays | Arrays | ✅ | | | | |
 | 25–100 | *Coming soon — stay tuned!* | — | | | | | |
 
@@ -227,6 +229,7 @@ See the [LICENSE](LICENSE) file for details.
 
 *"Every expert was once a beginner who refused to quit."*
 
+**Made with ❤️ — 26 down, 74 to go. 🚀**
 **Made with ❤️ — 25 down, 75 to go. 🚀**
 
 </div>
